@@ -37,7 +37,7 @@ Resources you might need.
 * [Atom](http://http://atom.io/) - Build by Github Guys
 * [Git](https://git-scm.com/downloads) - Collaboration Tool
 * [NodeJS](https://nodejs.org/en/) - Collaboration Tool
-* [Firefo](https://maven.apache.org/) - Web Browser
+* [Firefox](https://maven.apache.org/) - Web Browser
 * [Google Chrome](https://rometools.github.io/rome/) - Web Browser
 
 
