@@ -43,7 +43,7 @@ Resources you might need.
 
 ## Authors
 
-* **eChris** - *Initial work* - [PurpleBooth](https://github.com/mysterioux)
+* **eChris** - *Initial work* - [Mysterioux](https://github.com/mysterioux)
 
 
 ## License
