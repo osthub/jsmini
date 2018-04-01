@@ -1,0 +1,25 @@
+{
+  "name": "classwork",
+  "version": "1.0.0",
+  "description": "OSTHub Javascript Crash Course",
+  "main": "index.js",
+  "scripts": {
+    "test": "eslint classwork.js && jest",
+    "lint": "eslint",
+    "test:watch": "npm test -- --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osthub/osthub.git"
+  },
+  "author": "Chris Nike",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/osthub/issues"
+  },
+  "homepage": "https://github.com/osthub/osthub#readme",
+  "devDependencies": {
+    "eslint": "^3.17.1",
+    "jest": "^19.0.2"
+  }
+}
